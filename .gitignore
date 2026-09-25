@@ -1,0 +1,9 @@
+/.phpunit.cache
+/var/
+/vendor/
+.env.local
+.env.local.php
+.env.*.local
+/public/bundles/
+/config/jwt/
+composer.lock
